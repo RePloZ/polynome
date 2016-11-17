@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461361684 source:c:\users\le_al\documents\codeblocks\polynome_second_degre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1461773744 source:c:\users\kiadi\desktop\4_325509695848579300\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1461772266 source:c:\users\kiadi\desktop\4_325509695848579300\racine.c
+
+1461769897 source:c:\users\kiadi\desktop\4_325509695848579300\variationsigne.c
+
+1461772862 source:c:\users\kiadi\desktop\4_325509695848579300\deriprimocano.c
+
